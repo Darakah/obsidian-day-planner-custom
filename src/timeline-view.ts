@@ -24,7 +24,7 @@ export default class TimelineView extends ItemView {
     }
 
     getIcon() {
-        return "calendar-with-checkmark";
+        return "three-horizontal-bars";
     }
 
     update(summaryData: PlanSummaryData) {
