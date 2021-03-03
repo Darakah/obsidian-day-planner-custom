@@ -11,3 +11,5 @@ Custom modification to the obsidian day planner plugin found at https://github.c
 - [ ] 17:20 Prep for tomorrow's meetings
 - [ ] 20:00 testing something %%#cf6565/#e8bf58%%
 ```
+
+- [x] Change the Icon of the day plan view
