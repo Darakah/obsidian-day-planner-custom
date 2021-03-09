@@ -13,3 +13,4 @@ Custom modification to the obsidian day planner plugin found at https://github.c
 ```
 
 - [x] Change the Icon of the day plan view
+- [ ] Settings option to specify custom location for day planner folder
